@@ -1,14 +1,14 @@
-### Simple Newsletter Website
+# Simple Newsletter Website
 
 Using this website a user can SignUp for a newsletter and the data world be send and saved in MailChamp's server via MailChamp API.
 
 This is a simple website made using,
 
-1. <b>Node.js</b> 
-2. <b>express.js</b>
-3. <b>Body-parser</b> Module
-4. <b>HTTPS</b> Module
-5. <b>requests</b> Mobule
+1. <b>`Node.js`</b> 
+2. <b>`express.js`</b>
+3. <b>`Body-parser`</b> Module
+4. <b>`HTTPS`</b> Module
+5. <b>`requests`</b> Mobule
 
 
 ### To install modules and frameworks
