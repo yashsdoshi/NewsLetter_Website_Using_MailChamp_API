@@ -32,7 +32,7 @@ link for `bootstrap CDN` -- https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/
 1. Create a free account at -- [Create Free Account!](https://login.mailchimp.com/signup/?plan=free_monthly_plan_v0)
 2. Fllow the documentation for generating API key, list ID and further elaboration --[Click Here](https://mailchimp.com/developer/marketing/api/root/)
 
-### Example prewview of website:
+### Example preview of website:
 ![Screenshot 2023-01-01 120016](https://user-images.githubusercontent.com/39629707/210162855-dc512b04-65f6-4a79-a3be-68e0d55c2d0d.jpg)
 
 ### Sample Data saved in MailChamp DataBase:
