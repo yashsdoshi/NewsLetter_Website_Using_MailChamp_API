@@ -1,6 +1,6 @@
 # Simple Newsletter Website
 
-Using this website a user can SignUp for a newsletter and the data world be send and saved in `MailChamp's` server via MailChamp `API`.
+Using this website a user can SignUp for a newsletter and the data world be send and saved in `MailChamp's` server via `MailChamp API`.
 
 This is a simple website made using,
 
