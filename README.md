@@ -22,7 +22,19 @@ Run the commands from below in your vs-code project folder terminal.
   npm i reuests
 ```
 
-
+## :octocat: Cloning this repo:
+- [x] Run the following command:
+```bash 
+git clone 'https://github.com/yashdoshi12/Simple_NewsLetter_Website.git' 
+```
+- [x] `cd` to the cloned folder:
+```bash 
+cd Blog_Website_Without_Database
+```
+- [x] Install required `npm` pakages
+```bash 
+npm i
+```
 
 For FrontEnd I have used `bootstrap` Don't forget to add `bootstrap CDN` or else the css wont load up;
 link for `bootstrap CDN` -- https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css
