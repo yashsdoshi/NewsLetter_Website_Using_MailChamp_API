@@ -29,7 +29,7 @@ git clone 'https://github.com/yashdoshi12/Simple_NewsLetter_Website.git'
 ```
 - [x] `cd` to the cloned folder:
 ```bash 
-cd Blog_Website_Without_Database
+cd Simple_NewsLetter_Website
 ```
 - [x] Install required `npm` pakages
 ```bash 
