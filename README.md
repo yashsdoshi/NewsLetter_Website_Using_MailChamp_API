@@ -22,7 +22,7 @@ Run the commands from below in your vs-code project folder terminal.
   npm i reuests
 ```
 
-The `https` is local in node so you dont have to separately download it.
+
 
 For FrontEnd I have used `bootstrap` Don't forget to add `bootstrap CDN` or else the css wont load up;
 link for `bootstrap CDN` -- https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css
