@@ -62,4 +62,4 @@ I made this website while learning Full-Stack Web Development and please feel fr
 <hr />
 <br />
 
-<div align="center">  Don't forget to leave a star ⭐️</div>
+# <div align="center">  Don't forget to leave a star ⭐️</div>
