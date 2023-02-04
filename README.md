@@ -9,7 +9,8 @@ This is a simple website made using,
 3. <b>`Body-parser`</b> Module
 4. <b>`HTTPS`</b> Module
 5. <b>`requests`</b> Mobule
-
+<hr />
+<br />
 
 ### :octocat: To install modules and frameworks
 
@@ -35,7 +36,8 @@ cd Simple_NewsLetter_Website
 ```bash 
 npm i
 ```
-
+<hr />
+<br />
 For FrontEnd I have used `bootstrap` Don't forget to add `bootstrap CDN` or else the css wont load up;
 link for `bootstrap CDN` -- https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css
 
