@@ -8,7 +8,6 @@ Using this website a user can SignUp for a newsletter and the data world be send
 
 <hr />
 
-
 This is a simple website made using,
 
 1. <b>`Node.js`</b> 
@@ -20,7 +19,6 @@ This is a simple website made using,
 <br />
 
 ### :octocat: To install modules and frameworks
-
 
 Run the commands from below in your vs-code project folder terminal.
 ```bash
